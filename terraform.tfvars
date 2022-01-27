@@ -1,0 +1,5 @@
+aws_primary_region   = "us-west-2"
+aws_secondary_region = "us-east-1"
+application          = "yousician"
+environment          = "dev"
+stage                = "dev"
